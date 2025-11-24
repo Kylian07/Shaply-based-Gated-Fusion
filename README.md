@@ -1,6 +1,6 @@
 # A Shapley Value-based Gated Feature Fusion of Multi-branch Deep Learning Framework for Breast Cancer Screening of Thermal Images
 
-[![Conference](https://img.shields.io/badge/Conference-AIIIMA%202025-blue.svg)]([http://](https://doi.org/10.1007/978-3-032-10990-3_3))  
+[![Conference](https://img.shields.io/badge/Conference-AIIIMA%202025-blue.svg)](https://doi.org/10.1007/978-3-032-10990-3_3)  
 📄 Accepted at the **4th International Conference on Artificial Intelligence over Infrared Images for Medical Applications (AIIIMA 2025)**
 
 ---
